@@ -1,0 +1,21 @@
+{
+  "name": "jsii-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "demo": "npm run build && node bin/jsii-translate examples/controlflow.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "@types/yargs": "^13.0.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "yargs": "^13.3.0"
+  }
+}
