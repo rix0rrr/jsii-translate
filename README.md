@@ -2,6 +2,12 @@
 
 Super half-baked PoC of translating TypeScript to Python.
 
+## Preparing
+
+```
+npm install
+```
+
 ## Running
 
 ```
